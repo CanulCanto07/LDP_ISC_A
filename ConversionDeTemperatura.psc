@@ -1,8 +1,7 @@
 Algoritmo ConversionDeTemperatura
-	Definir TemperaturaCelcius, TemperaturaFahrenheit Como Real
-	Escribir "Introduzca la temperatura deseada en Grados Celcius"
-	Leer TemperaturaCelcius
-	
-	TemperaturaFahrenheit = (TemperaturaCelcius * 1.8) + (32)
-	Escribir "El equivalente en grados Celcius es ", TemperaturaFahrenheit, "F"
+	Definir TemperaturaCelsius, TemperaturaFahrenheit Como Real
+	Escribir 'Introduzca la temperatura deseada en Grados Celsius'
+	Leer TemperaturaCelsius
+	TemperaturaFahrenheit <- (TemperaturaCelsius*1.8)+(32)
+	Escribir 'El equivalente en grados Fahrenheit es ', TemperaturaFahrenheit, 'F'
 FinAlgoritmo

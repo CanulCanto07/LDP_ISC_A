@@ -11,5 +11,3 @@ FinPara
 promedio = suma / 8.0
 Escribir  "El promedio de las 8 asignaturas es: ", promedio
 FinAlgoritmo
-
-
